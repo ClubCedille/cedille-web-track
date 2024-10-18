@@ -4,21 +4,20 @@ This is the repository for the Cedille web track. This track is intended to be a
 self-paced introduction to web development using frameworks and practices mostly
 used our Club.
 
-The track is divided into 3 modules :
+The track is divided into 3 tracks :
 
-- Module 0: Track Git
+- [Track 0: Track Git](0_track_git/README.md)
 
-This module is intended to be a quick introduction to Git and GitHub. It is
+This track is intended to be a quick introduction to Git and GitHub. It is
 intended to be a prerequisite for the rest of the track.
 
-- Module 1: Track Hugo
+- [Track 1.2: Track Hugo](1-1_track_hugo/README.md)
 
-This module is intended to be an introduction to Hugo, a static site generator.
+This track is intended to be an introduction to Hugo, a static site generator.
 
-- Module 2: Track Grav
+- [Track 1.2: Track Grav](1-2_track_grav/README.md)
 
-This module is intended to be an introduction to Grav, a modern flat-file CMS.
+This track is intended to be an introduction to Grav, a modern flat-file CMS.
 
-You can start the track by following the instructions in the README of the first
-module (Git). Then you can choose from one of the other two modules as you see
-fit.
+You can start by following the instructions in the README of the first track
+(Git). Then you can choose from one of the other two tracks as you see fit.
