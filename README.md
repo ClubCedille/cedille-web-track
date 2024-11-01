@@ -2,7 +2,7 @@
 
 This is the repository for the Cedille web track. This track is intended to be a
 self-paced introduction to web development using frameworks and practices mostly
-used our Club.
+used in our Club.
 
 The track is divided into the following :
 
