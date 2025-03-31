@@ -26,7 +26,7 @@ No matter your level of interest, you'll leave this lab with a working portfolio
 
 - **Option 1: Using Docker** (Recommended for Beginners)
   - **Why Docker?**: Docker is a better choice, as it simplifies setup, ensures consistency, and helps build foundational knowledge for later labs. Docker will aslo be used to ultimately deploy your website on the club's infrastructure.
-    - Here is a link to the club’s ["Learn Docker" wiki article](https://wiki.omni.cedille.club/onboarding/tracks/learn-docker/) for first timers.
+    - Here is a link to the club’s ["Learn Docker" wiki article](https://wiki.cedille.club/onboarding/tracks/learn-docker/) for first timers.
   - **Installation Steps**: Explain the steps to pull an image from the docker hub and run it.
     - pull the docker image of hugo from [Docker Hub](https://hub.docker.com/r/floryn90/hugo)
      ```sh
