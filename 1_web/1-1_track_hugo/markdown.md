@@ -129,7 +129,7 @@ Would be displayed like this:
 
 You redirect the user to a certain website by clicking on a word.
 
-It follows this format: ` [link_label](url)`.
+It follows this format: `[link_label](url)`.
 
 Ex:
 
